@@ -1,3 +1,7 @@
 ACA vamos a empezar a trabajar con Git y asi aprenderemos vamos
 
+<<<<<<< HEAD
 Esta es la descripcion que estoy haciendo Cracaolies
+=======
+Insetando nueva info en descripcion para subir de Steven.
+>>>>>>> 2b743199665a84f55ec62546927decf8ca5d0260
