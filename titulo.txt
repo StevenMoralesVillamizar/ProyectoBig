@@ -5,3 +5,6 @@ Este cambio lo esta haciendo Steven Morales 8510.
 Mi cambio nuevo en la nueva rama develop por Steven
 
 Ahora hago este cambio mio de Caracolies
+
+Esta es la multiplicacion que seria asi:
+3 x 3 = 9
